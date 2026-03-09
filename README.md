@@ -11,4 +11,6 @@ Overview of the key projects included in this repository:
 7. **[Knowledge Discovery in Data]** *(Work in progress - to be added)*
 8. **[Artificial Intelligence for Business Applications]** *(Work in progress - to be added)*
 
+**[Predictive Model for Early Detection of Neurodegenerative Diseases from Non-invasive Data with an Explainable Artificial Intelligence Approach - Bachelor degree thesis]** *(Work in progress - to be added)*
+
 For each project, I am willing to translate the code and documentation into English if necessary, just let me know.
