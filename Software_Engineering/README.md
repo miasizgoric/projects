@@ -6,4 +6,4 @@ This project represents a complete software solution designed for the organizati
 
 *Note: Since this was a university project, the complete documentation, Wiki, and source code are hosted on the official faculty GitHub organization.*
 
-**[Click here to view the Project Wiki and Repository](UBACI_LINK_OVDJE)**
+**[Click here to view the Project Wiki and Repository](https://github.com/foivz/pi2025-zadace-msizgoric22.git)**
