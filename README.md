@@ -2,7 +2,7 @@
 This repository contains a curated collection of projects I developed during my Bachelor's degree in **Informatics** at the **Faculty of Organization and Informatics**.
 
 Overview of the key projects included in this repository:
-1. **[Mathematical Methods for Informatics](./Mathematical_Methods for Informatics)**: Python algorithms for matrix decomposition (Symmetric/Hermitian) and 3D geometric transformations.
+1. **[Mathematical Methods for Informatics](./Mathematical_Methods_for_Informatics)**: Python algorithms for matrix decomposition (Symmetric/Hermitian) and 3D geometric transformations.
 2. **[Business Process Modeling](./Business_Process_Modeling)**: AS-IS and TO-BE business process optimization and simulation for the company "Biotechnicon".
 3. **[Software Engineering](./Software_Engineering)**: Full-stack development of a software solution for organizing and tracking volunteering activities.
 4. **[Introduction to Knowledge Modelling](./Knowledge_Modelling)**: Formal domain modeling and solving of the Sokoban puzzle using Prolog (declarative) and Python (imperative).
