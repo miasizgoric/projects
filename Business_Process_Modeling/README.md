@@ -1,1 +1,5 @@
+**Course Objective:**
+Modern ICT is used today to build information systems that support the core business processes of an organization. Business process improvement projects, supported by modern ICT, encompass a wide range of management activities and scientific methods known as Business Process Improvement (BPI), Business Process Reengineering (BPR), or Business Process Modeling (BPM). Students learn how to model business processes, anticipating the potential of modern ICT, and how to apply BPR and BPM methods to achieve business excellence using modern software tools.
 
+**About the Project: Business Process Optimization for "Biotechnicon"**
+This project focuses on analyzing and optimizing the product certification process at the company "Biotechnicon". It involves mapping the current "AS-IS" state and designing a digitalized, highly efficient "TO-BE" model using IBM WebSphere. The project includes a detailed simulation and comparative cost-benefit analysis, demonstrating how the implementation of an automated ICT solution significantly reduces process duration (by nearly 80%) and cuts operational costs, resulting in a measurable return on investment.
