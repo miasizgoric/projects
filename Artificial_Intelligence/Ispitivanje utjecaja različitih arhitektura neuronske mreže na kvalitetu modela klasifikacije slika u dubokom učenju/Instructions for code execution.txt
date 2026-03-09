@@ -1,0 +1,15 @@
+Visual Studio Code was used to develop the software solution. Epochs and accuracies are printed in the terminal after running the program.
+
+MOBILENET
+The code was developed by colleague Gabriela; Python version 3.12.9.
+To run the MobileNetV2 architecture with the parameters from the lab exercises, you simply need to run the main.py program.
+For the modified code with image enlargement, you need to uncomment lines 14 and 15:
+#x_treniranje = tf.image.resize(x_treniranje,[96,96])
+#x_testiranje = tf.image.resize(x_testiranje,[96,96])
+and in line 32 input_shape=(32,32,3), change the input_shape to (96,96,3).
+
+EFFICIENTNET
+The code was developed by colleague Mia; Python version 3.12.4.
+To run the EfficientNetB1 architecture with the parameters from the lab exercises, you need to run the EfficientNet255.py program.
+To run the EfficientNetB1 architecture with the modified data scaling, run the EfficientNet.py program.
+
