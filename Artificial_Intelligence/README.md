@@ -1,1 +1,5 @@
+**Course Objective:**
+This course familiarizes students with various aspects of Artificial Intelligence and its broad applications. Special emphasis is placed on providing an overview of AI fundamentals, methods, techniques, and algorithms that serve as the foundation for building advanced computing systems, such as Big Data processing, smart cities, autonomous vehicles, advanced robotics, and intelligent agents.
 
+**About the Project: Deep Learning Image Classification Architectures**
+This project investigates the impact of different Convolutional Neural Network (CNN) architectures on the quality of image classification models using the CIFAR-10 dataset. It conducts a comparative analysis between a custom baseline CNN model and advanced transfer learning architectures, specifically MobileNetV2 and EfficientNetB1. The study heavily focuses on the critical importance of data preprocessing, image resolution scaling (from 32x32 to 96x96), and proper input normalization to achieve optimal model accuracy and prevent training failures.
