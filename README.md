@@ -7,8 +7,8 @@ Overview of the key projects included in this repository:
 3. **[Software Engineering](./Software_Engineering)**: Full-stack development of a software solution for organizing and tracking volunteering activities.
 4. **[Introduction to Knowledge Modelling](./Knowledge_Modelling)**: Formal domain modeling and solving of the Sokoban puzzle using Prolog (declarative) and Python (imperative).
 5. **[Introduction to Artificial Intelligence](./Artificial_Intelligence)**: Comparative analysis of CNN architectures (MobileNetV2, EfficientNetB1) for image classification on the CIFAR-10 dataset.
-6. **[Knowledge Discovery in Data](./Knowledge_Discovery_in_Data)** 
-7. **[Artificial Intelligence for Business Applications](./Artificial_Intelligence_for_Business_Applications_Emil_Frey_Digital)** 
+6. **[Knowledge Discovery in Data](./Knowledge_Discovery_in_Data)**: Housing price prediction using regression models following the CRISP-DM methodology.
+7. **[Artificial Intelligence for Business Applications](./Artificial_Intelligence_for_Business_Applications_Emil_Frey_Digital)**: Decision Support System for identifying the most profitable vehicle  advertising platform, built using Random Forest, XGBoost and multi-criteria AHP analysis.
 
 **[Predictive Model for Early Detection of Neurodegenerative Diseases from Non-invasive Data with an Explainable Artificial Intelligence Approach - Bachelor degree thesis]** *(to be added)*
 
