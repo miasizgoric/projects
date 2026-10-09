@@ -10,6 +10,3 @@ Overview of the key projects included in this repository:
 6. **[Knowledge Discovery in Data](./Knowledge_Discovery_in_Data)**: Housing price prediction using regression models following the CRISP-DM methodology.
 7. **[Artificial Intelligence for Business Applications](./Artificial_Intelligence_for_Business_Applications_Emil_Frey_Digital)**: Decision Support System for identifying the most profitable vehicle  advertising platform, built using Random Forest, XGBoost and multi-criteria AHP analysis.
 
-**[Predictive Model for Early Detection of Neurodegenerative Diseases from Non-invasive Data with an Explainable Artificial Intelligence Approach - Bachelor degree thesis]** *(to be added)*
-
-*Additional repositories for research work conducted at the Ruđer Bošković Institute (VAE for biomedical NLP) and Bachelor's thesis (XAI for neurodegenerative disease detection) will be published upon supervisor approval.*
